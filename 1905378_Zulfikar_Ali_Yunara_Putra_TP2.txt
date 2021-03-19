@@ -1,0 +1,16 @@
+Saya Zulfikar Ali Yunara Putra mengerjakan evaluasi TP2 - DPBO dalam mata kuliah DPBO untuk keberkahan-Nya, 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan yang dihadapi:
+-mencari library untuk mengkoneksikan ke database
+-banyak error saat mencoba upload ke database
+
+Hal baru yang dipelajari
+-cara membuat layered panel
+-mempelajari cara menggunakan library untuk mengkoneksi ke database
+-dan banyak yang lainnya
+
+Fitur:
+Input data dengan form
+menampilkan data dari database
+halaman info berisi nim dan nama
